@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Market Helpr App in React & ANTD
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This list app is a great way to stay organized when going grocery shopping.
 
 ## Available Scripts
 
